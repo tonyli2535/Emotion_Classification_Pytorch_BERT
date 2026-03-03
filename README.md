@@ -17,6 +17,16 @@ Built in a single Jupyter Notebook (`Emotion_classification_pytorch_BERT.ipynb`)
 - TorchMetrics
 - Google Colab (GPU-ready)
 
+## Results
+Early stopping triggered at epoch 7 (best val PR-AUC: 0.8940).
+Test set (final):
+
+- Accuracy: 0.9606
+- AUROC: 0.9907
+- Macro F1: 0.5886
+- PR-AUC: 0.7839
+- Macro Precision: 0.5583
+- Macro Recall: 0.6633
 ---
 
 Made for learning purposes.
